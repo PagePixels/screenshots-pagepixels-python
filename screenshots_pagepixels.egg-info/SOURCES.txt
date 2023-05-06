@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+screenshots_pagepixels.egg-info/PKG-INFO
+screenshots_pagepixels.egg-info/SOURCES.txt
+screenshots_pagepixels.egg-info/dependency_links.txt
+screenshots_pagepixels.egg-info/requires.txt
+screenshots_pagepixels.egg-info/top_level.txt
