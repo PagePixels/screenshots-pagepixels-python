@@ -7,13 +7,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='screenshots_pagepixels',
-    version='1.0.3',
+    version='1.0.4',
     description='Take immediate screenshots, create scheduled screenshots, take multi-step screenshots (click links, complete forms, login to websites), and get change notifications using the PagePixels Screenshot API python wrapper.',
     long_description=long_description,
     long_description_content_type="text/markdown",
     author='PagePixels LLC',
     author_email='support@pagepixels.com',
-    url='https://github.com/yourusername/screenshots_pagepixels',
+    url='https://pagepixels.com',
     packages=find_packages(),
     install_requires=[
         'requests',
