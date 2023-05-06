@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: screenshots-pagepixels
-Version: 1.0.0
+Version: 1.0.1
 Summary: Take immediate screenshots, create scheduled screenshots, take multi-step screenshots (click links, complete forms, login to websites), and get change notifications using the PagePixels Screenshot API python wrapper.
 Home-page: https://github.com/yourusername/screenshots_pagepixels
 Author: PagePixels LLC
