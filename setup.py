@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='screenshots_pagepixels',
-    version='1.0.2',
+    version='1.0.3',
     description='Take immediate screenshots, create scheduled screenshots, take multi-step screenshots (click links, complete forms, login to websites), and get change notifications using the PagePixels Screenshot API python wrapper.',
     long_description=long_description,
     long_description_content_type="text/markdown",
